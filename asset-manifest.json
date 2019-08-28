@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/feesplitter/static/css/main.be796656.chunk.css",
+    "main.js": "/feesplitter/static/js/main.fbf0748c.chunk.js",
+    "main.js.map": "/feesplitter/static/js/main.fbf0748c.chunk.js.map",
+    "runtime~main.js": "/feesplitter/static/js/runtime~main.d9f61da1.js",
+    "runtime~main.js.map": "/feesplitter/static/js/runtime~main.d9f61da1.js.map",
+    "static/css/2.93e9ecf4.chunk.css": "/feesplitter/static/css/2.93e9ecf4.chunk.css",
+    "static/js/2.8d4b3dca.chunk.js": "/feesplitter/static/js/2.8d4b3dca.chunk.js",
+    "static/js/2.8d4b3dca.chunk.js.map": "/feesplitter/static/js/2.8d4b3dca.chunk.js.map",
+    "index.html": "/feesplitter/index.html",
+    "precache-manifest.d0a28171daa7cca8cdc5e78376db5398.js": "/feesplitter/precache-manifest.d0a28171daa7cca8cdc5e78376db5398.js",
+    "service-worker.js": "/feesplitter/service-worker.js",
+    "static/css/2.93e9ecf4.chunk.css.map": "/feesplitter/static/css/2.93e9ecf4.chunk.css.map",
+    "static/css/main.be796656.chunk.css.map": "/feesplitter/static/css/main.be796656.chunk.css.map",
+    "static/media/argon-react.png": "/feesplitter/static/media/argon-react.f38ddea9.png",
+    "static/media/font-awesome.min.css": "/feesplitter/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/nucleo.css": "/feesplitter/static/media/nucleo-icons.f82ec6ba.ttf"
+  }
+}
